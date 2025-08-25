@@ -5,7 +5,7 @@ O programa recebe um tabuleiro de Sudoku com números já preenchidos e espaços
 
 ---
 
-## 🚀 Funcionalidades
+## 📄 Funcionalidades
 
 - Representação de tabuleiro de Sudoku (9x9);
 - Verificação de regras do jogo (linhas, colunas e quadrados 3x3);
